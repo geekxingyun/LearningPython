@@ -1,4 +1,4 @@
-# 0x01 LearningPython
+# 0x01 Python 学习教程
 
 ## 1.1 基础教程
 
